@@ -3,7 +3,7 @@ I have over 7 years of experience in the IT industry, working hard to satisfy th
 As a result of my hard work towards new things, I am now familiar with almost every language and framework.
 
 ## Professional skills: 
-- JavaScript, Typescript, React.js, Angular
+- JavaScript, Typescript, React.js, Angular vuejs
 - Node.js, Express, PHP, Laravel, CodeIgniter
 - HTML5, CSS3, Twitter Bootstrap, Foundation 
 - Linux, Docker, Vagrant, Nginx, Gunicorn
